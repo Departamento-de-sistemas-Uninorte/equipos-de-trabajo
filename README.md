@@ -14,6 +14,7 @@ Por ejemplo, en la primera linea encontrarás el equipo conformado por `Jane Doe
 | Sebastian Santander | Jesus Romero |
 | Moisés De La Hoz | Brayan Useche |
 | Jose Rodriguez | Issa Dovale |
+| Daniel Martínez | Orlando Meriño |
 | Jesús Lozano |  |
 | Juan Dawd |  |
 
