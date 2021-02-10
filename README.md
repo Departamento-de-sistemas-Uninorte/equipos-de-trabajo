@@ -16,4 +16,5 @@ Por ejemplo, en la primera linea encontrarás el equipo conformado por `Jane Doe
 | Jose Rodriguez | Issa Dovale |
 | Jesús Lozano |  |
 | Juan Dawd |  |
+|Jorge Benavdies|Jose Hurtado|
 
